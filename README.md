@@ -1,3 +1,7 @@
+# Please use https://github.com/suntour/qr-scanner instead.
+
+This project uses ocr to parse images to strings, which has a much larger risk of misreading than a robust QR library.
+
 # code-card-scanner
 This program uses [tesseract-ocr](https://github.com/tesseract-ocr/tesseract) to scan a folder of code card images.
 
